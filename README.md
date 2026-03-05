@@ -29,19 +29,11 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://orcid.org/YOUR_ORCID" target="_blank">
-<img src="https://cdn.simpleicons.org/orcid/A6CE39" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
 <a href="mailto:your_email@email.com">
 <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://yourwebsite.com" target="_blank">
-<img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="40" height="40"/>
-</a>
 </div>
 
 
