@@ -1,8 +1,6 @@
 <!-- ── HEADER BANNER ───────────────────────────────────────────────── -->
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=210&section=header&text=Nathalie%20Pineda%20PhD&fontSize=66&fontColor=F8F6F0&animation=fadeIn&fontAlignY=48&desc=·%20Bioinformatician%20·%20Multi-omics%20Researcher&descAlignY=73&descSize=20&descColor=D4EBD0"/>
-
 <!-- CONTACT ICONS -->
 <a href="https://www.linkedin.com/in/enathaliepineda/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
@@ -28,7 +26,7 @@
 
 
 </div>
-<br>
+
 <table>
 <tr>
 <td valign="top" width="57%">
