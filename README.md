@@ -1,9 +1,24 @@
-
 <!-- ── HEADER BANNER ───────────────────────────────────────────────── -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=210&section=header&text=Nathalie%20Pineda%20PhD&fontSize=66&fontColor=F8F6F0&animation=fadeIn&fontAlignY=48&desc=·%20Bioinformatician%20·%20Multi-omics%20Researcher&descAlignY=73&descSize=20&descColor=D4EBD0"/>
-</div>
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=210&section=header&text=Nathalie%20Pineda%20PhD&fontSize=66&fontColor=F8F6F0&animation=fadeIn&fontAlignY=48&desc=·%20Bioinformatician%20·%20Multi-omics%20Researcher&descAlignY=73&descSize=20&descColor=D4EBD0"/>
+
+<!-- CONTACT ICONS -->
+<a href="https://www.linkedin.com/in/enathaliepineda/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
+</a>
+&nbsp;
+
+<a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank">
+<img src="https://cdn.simpleicons.org/googlescholar/4285F4" width="35"/>
+</a>
+&nbsp;
+
+<a href="mailto:your_email@email.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="35"/>
+</a>
+
+</div>
 <br>
 
 <!-- ── ANIMATED TAGLINE ────────────────────────────────────────────── -->
@@ -13,30 +28,7 @@
 
 
 </div>
-
 <br>
-
-<!-- ── CONTACT BADGES ──────────────────────────────────────────────── -->
-<div align="right">
-
-<a href="https://www.linkedin.com/in/enathaliepineda/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank">
-<img src="https://cdn.simpleicons.org/googlescholar/4285F4" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:your_email@email.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-</div>
-
-
 <table>
 <tr>
 <td valign="top" width="57%">
