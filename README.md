@@ -9,7 +9,8 @@
 <!-- ── ANIMATED TAGLINE ────────────────────────────────────────────── -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=26&pause=1200&color=6A8C5E&center=true&vCenter=true&width=700&lines=Proteomics+·+Transcriptomics+·+Multi-omics;Decoding+molecular+complexity+one+dataset+at+a+time;Building+tools+that+bridge+biology+%26+computation;Open+to+industry+opportunities+in+biotech+%26+pharma)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=30&pause=1200&color=6A8C5E&center=true&vCenter=true&width=700&lines=Proteomics+·+Transcriptomics+·+Multi-omics;Decoding+molecular+complexity+one+dataset+at+a+time;Building+tools+that+bridge+biology+%26+computation;Open+to+industry+opportunities+in+biotech+%26+pharma)](https://git.io/typing-svg)
+
 
 </div>
 
@@ -18,18 +19,31 @@
 <!-- ── CONTACT BADGES ──────────────────────────────────────────────── -->
 <div align="right">
 
-
 <a href="https://www.linkedin.com/in/enathaliepineda/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-       alt="LinkedIn" 
-       width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
+<a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank">
+<img src="https://cdn.simpleicons.org/googlescholar/4285F4" width="40" height="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://orcid.org/YOUR_ORCID" target="_blank">
+<img src="https://cdn.simpleicons.org/orcid/A6CE39" width="40" height="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:your_email@email.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://yourwebsite.com" target="_blank">
+<img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="40" height="40"/>
+</a>
 </div>
 
----
-
-<!-- ── ABOUT + STATS ───────────────────────────────────────────────── -->
 
 <table>
 <tr>
