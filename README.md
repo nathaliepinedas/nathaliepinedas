@@ -1,7 +1,7 @@
 
 <!-- ── HEADER BANNER ───────────────────────────────────────────────── -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24&height=200&section=header&text=Carolina%20Ojeda&fontSize=62&fontColor=2C1810&animation=fadeIn&fontAlignY=48&desc=PhD%20Candidate%20·%20Bioinformatician%20·%20Multi-omics%20Researcher&descAlignY=72&descSize=17&descColor=7A4F3A"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24&height=200&section=header&text=Nathalie%20Pineda&fontSize=62&fontColor=2C1810&animation=fadeIn&fontAlignY=48&desc=PhD%20in%20·%20Bioinformatician%20·%20Multi-omics%20Researcher&descAlignY=72&descSize=17&descColor=7A4F3A"/>
 </div>
 
 <br>
