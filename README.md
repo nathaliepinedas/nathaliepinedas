@@ -1,10 +1,11 @@
 
 <!-- ── HEADER BANNER ───────────────────────────────────────────────── -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24&height=200&section=header&text=Nathalie%20Pineda%, PhD&fontSize=62&fontColor=2C1810&animation=fadeIn&fontAlignY=48&desc=%20·%20Bioinformatician%20·%20Multi-omics%20Researcher&descAlignY=72&descSize=17&descColor=7A4F3A"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24&height=220&section=header&text=YOUR%20NAME%2C%20PhD&fontSize=56&fontColor=2C1810&animation=fadeIn&fontAlignY=45&desc=Bioinformatician%20·%20Researcher%20·%20Builder&descAlignY=72&descSize=18&descColor=6B4226"/>
 </div>
 
 <br>
+
 
 <!-- ── TAGLINE ─────────────────────────────────────────────────────── -->
 <div align="center">
