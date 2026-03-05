@@ -1,7 +1,7 @@
 
 <!-- ── HEADER BANNER ───────────────────────────────────────────────── -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=210&section=header&text=Nathalie%20Pineda%20PhD&fontSize=66&fontColor=F8F6F0&animation=fadeIn&fontAlignY=48&desc=·%20Bioinformatician%20·%20Multi-omics%20Researcher&descAlignY=73&descSize=17&descColor=D4EBD0"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=210&section=header&text=Nathalie%20Pineda%20PhD&fontSize=66&fontColor=F8F6F0&animation=fadeIn&fontAlignY=48&desc=·%20Bioinformatician%20·%20Multi-omics%20Researcher&descAlignY=73&descSize=20&descColor=D4EBD0"/>
 </div>
 
 <br>
@@ -9,14 +9,14 @@
 <!-- ── ANIMATED TAGLINE ────────────────────────────────────────────── -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=22&pause=1200&color=6A8C5E&center=true&vCenter=true&width=700&lines=Proteomics+·+Transcriptomics+·+Multi-omics;Decoding+molecular+complexity+one+dataset+at+a+time;Building+tools+that+bridge+biology+%26+computation;Open+to+industry+opportunities+in+biotech+%26+pharma)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=26&pause=1200&color=6A8C5E&center=true&vCenter=true&width=700&lines=Proteomics+·+Transcriptomics+·+Multi-omics;Decoding+molecular+complexity+one+dataset+at+a+time;Building+tools+that+bridge+biology+%26+computation;Open+to+industry+opportunities+in+biotech+%26+pharma)](https://git.io/typing-svg)
 
 </div>
 
 <br>
 
 <!-- ── CONTACT BADGES ──────────────────────────────────────────────── -->
-<div align="center">
+<div align="right">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nathalie%20Pineda-3A4A35?style=flat-square&logo=linkedin&logoColor=A8C99A)](https://www.linkedin.com/in/enathaliepineda/)
 [![Email](https://img.shields.io/badge/Email-your%40email.com-3A4A35?style=flat-square&logo=gmail&logoColor=A8C99A)](mailto:edith.nathalie.pineda@email.com)
