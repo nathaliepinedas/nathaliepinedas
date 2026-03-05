@@ -18,11 +18,10 @@
 <!-- ── CONTACT BADGES ──────────────────────────────────────────────── -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carolina%20Ojeda-3A4A35?style=flat-square&logo=linkedin&logoColor=A8C99A)](https://www.linkedin.com/in/enathaliepineda/)
-[![Email](https://img.shields.io/badge/Email-your%40email.com-3A4A35?style=flat-square&logo=gmail&logoColor=A8C99A)](mailto:YOUR_EMAIL@email.com)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-3A4A35?style=flat-square&logo=google-scholar&logoColor=A8C99A)](https://scholar.google.com/YOUR_PROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nathalie%20Pineda-3A4A35?style=flat-square&logo=linkedin&logoColor=A8C99A)](https://www.linkedin.com/in/enathaliepineda/)
+[![Email](https://img.shields.io/badge/Email-your%40email.com-3A4A35?style=flat-square&logo=gmail&logoColor=A8C99A)](mailto:edith.nathalie.pineda@email.com)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-3A4A35?style=flat-square&logo=google-scholar&logoColor=A8C99A)]([https://scholar.google.com/YOUR_PROFILE](https://scholar.google.com/scholar?as_sdt=807&q=Edith+Nathalie+Pineda&hl=en))
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-3A4A35?style=flat-square&logo=orcid&logoColor=A8C99A)](https://orcid.org/YOUR-ORCID)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=6A8C5E&label=profile+views)](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
 
