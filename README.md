@@ -1,7 +1,7 @@
 
 <!-- ── HEADER BANNER ───────────────────────────────────────────────── -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24&height=220&section=header&text=YOUR%20NAME%2C%20PhD&fontSize=56&fontColor=2C1810&animation=fadeIn&fontAlignY=45&desc=Bioinformatician%20·%20Researcher%20·%20Builder&descAlignY=72&descSize=18&descColor=6B4226"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24&height=220&section=header&text=Nathalie%20Pineda%2C%20PhD&fontSize=56&fontColor=2C1810&animation=fadeIn&fontAlignY=45&desc=Bioinformatician%20·%20Researcher%20·%20Builder&descAlignY=72&descSize=18&descColor=6B4226"/>
 </div>
 
 <br>
