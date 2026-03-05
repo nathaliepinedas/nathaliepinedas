@@ -1,29 +1,28 @@
 
 <!-- ── HEADER BANNER ───────────────────────────────────────────────── -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24&height=220&section=header&text=Nathalie%20Pineda%2C%20PhD&fontSize=56&fontColor=2C1810&animation=fadeIn&fontAlignY=45&desc=Bioinformatician%20·%20Researcher%20·%20Builder&descAlignY=72&descSize=18&descColor=6B4226"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=210&section=header&text=Nathalie%20Pineda%20PhD&fontSize=66&fontColor=F8F6F0&animation=fadeIn&fontAlignY=48&desc=·%20Bioinformatician%20·%20Multi-omics%20Researcher&descAlignY=73&descSize=17&descColor=D4EBD0"/>
 </div>
 
 <br>
 
-
-<!-- ── TAGLINE ─────────────────────────────────────────────────────── -->
+<!-- ── ANIMATED TAGLINE ────────────────────────────────────────────── -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=22&pause=1200&color=7A4F3A&center=true&vCenter=true&width=680&lines=Proteomics+·+Transcriptomics+·+Multi-omics+Integration;Turning+molecular+data+into+clinical+insight;Building+reproducible+pipelines+for+complex+biology;Open+to+industry+opportunities+in+biotech+%26+pharma)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=22&pause=1200&color=6A8C5E&center=true&vCenter=true&width=700&lines=Proteomics+·+Transcriptomics+·+Multi-omics;Decoding+molecular+complexity+one+dataset+at+a+time;Building+tools+that+bridge+biology+%26+computation;Open+to+industry+opportunities+in+biotech+%26+pharma)](https://git.io/typing-svg)
 
 </div>
 
 <br>
 
-<!-- ── BADGES ──────────────────────────────────────────────────────── -->
+<!-- ── CONTACT BADGES ──────────────────────────────────────────────── -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carolina%20Ojeda-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enathaliepineda/)
-[![Email](https://img.shields.io/badge/Email-your%40email.com-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@email.com)
-[![Google Scholar](https://img.shields.io/badge/Scholar-Publications-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/YOUR_PROFILE)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/YOUR-ORCID)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=7A4F3A&label=profile+views)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carolina%20Ojeda-3A4A35?style=flat-square&logo=linkedin&logoColor=A8C99A)](https://www.linkedin.com/in/enathaliepineda/)
+[![Email](https://img.shields.io/badge/Email-your%40email.com-3A4A35?style=flat-square&logo=gmail&logoColor=A8C99A)](mailto:YOUR_EMAIL@email.com)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-3A4A35?style=flat-square&logo=google-scholar&logoColor=A8C99A)](https://scholar.google.com/YOUR_PROFILE)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-3A4A35?style=flat-square&logo=orcid&logoColor=A8C99A)](https://orcid.org/YOUR-ORCID)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=6A8C5E&label=profile+views)](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
 
@@ -33,7 +32,7 @@
 
 <table>
 <tr>
-<td valign="top" width="58%">
+<td valign="top" width="57%">
 
 ## About Me
 
@@ -41,19 +40,19 @@ I am a PhD Candidate in Bioinformatics at the **University of Arkansas**, workin
 
 My research bridges **proteomics**, **transcriptomics**, and **multi-omics integration** — with a focus on [YOUR THESIS TOPIC, e.g., radiation-induced molecular responses and biomarker discovery]. I combine wet-lab intuition with computational rigor to extract biological meaning from complex, high-dimensional datasets.
 
-I am actively seeking **industry positions** in biotech, pharma, or precision medicine where I can apply multi-omics expertise to drive translational research.
+Actively seeking **industry positions** in biotech, pharma, or precision medicine where multi-omics expertise drives translational impact.
 
-📍 **Location:** Arkansas, USA  
-🎓 **PhD Expected:** [YEAR]  
-🔬 **Lab:** [Laboratory of Radiation · University of Arkansas](https://YOUR_LAB_WEBSITE)  
-💼 **Open to:** Computational Biologist · Proteomics Scientist · Bioinformatics R&D  
+📍 **Location:** Arkansas, USA
+🎓 **PhD Expected:** [YEAR]
+🔬 **Lab:** Laboratory of Radiation · University of Arkansas
+💼 **Open to:** Computational Biologist · Proteomics Scientist · Bioinformatics R&D
 
 </td>
-<td valign="top" width="42%">
+<td valign="top" width="43%">
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=solarized-light&hide_border=true&title_color=7A4F3A&icon_color=C4762A&text_color=2C1810&bg_color=FDF6EE" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&title_color=3A4A35&icon_color=6A8C5E&text_color=3A4A35&bg_color=F8F6F0" width="100%"/>
 
 </td>
 </tr>
@@ -69,26 +68,26 @@ I am actively seeking **industry positions** in biotech, pharma, or precision me
 <tr>
 <td width="33%" align="center">
 
-**🧪 Proteomics**  
-Mass spectrometry · MaxQuant  
-Perseus · PTM analysis  
-Protein interaction networks  
+**🧪 Proteomics**
+Mass spectrometry · MaxQuant
+Perseus · PTM analysis
+Protein interaction networks
 
 </td>
 <td width="33%" align="center">
 
-**🧬 Transcriptomics**  
-RNA-seq · scRNA-seq  
-Seurat · DESeq2  
-Gene regulatory networks  
+**🧬 Transcriptomics**
+RNA-seq · scRNA-seq
+Seurat · DESeq2
+Gene regulatory networks
 
 </td>
 <td width="33%" align="center">
 
-**🔗 Multi-omics**  
-Data integration  
-Biomarker discovery  
-Pathway analysis  
+**🔗 Multi-omics**
+Data integration
+Biomarker discovery
+Pathway & network analysis
 
 </td>
 </tr>
@@ -104,27 +103,27 @@ Pathway analysis
 <summary><strong>Peer-Reviewed Articles</strong></summary>
 <br>
 
-**[Your Paper Title Here](https://doi.org/10.XXXX)**  
-**Carolina Ojeda**, Co-Author, Kumar Takkar  
+**[Your Paper Title Here](https://doi.org/10.XXXX)**
+**Carolina Ojeda**, Co-Author, Kumar Takkar
 *Journal Name · Year* &nbsp;·&nbsp; [📄 PDF](LINK) &nbsp;·&nbsp; [💻 Code](LINK) &nbsp;·&nbsp; [📊 Data](LINK)
 
-> One-sentence summary of key finding or contribution.
+> One-sentence summary of the key finding or contribution.
 
 ---
 
-**[Your Second Paper Title](https://doi.org/10.XXXX)**  
-**Carolina Ojeda**, Co-Author, Co-Author  
-*Journal Name · Year* &nbsp;·&nbsp; [📄 PDF](LINK)
-
-> One-sentence summary of key finding or contribution.
-
----
-
-**[Third Paper Title](https://doi.org/10.XXXX)**  
-**Carolina Ojeda**, et al.  
+**[Your Second Paper Title](https://doi.org/10.XXXX)**
+**Carolina Ojeda**, Co-Author, Co-Author
 *Journal Name · Year* &nbsp;·&nbsp; [📄 PDF](LINK) &nbsp;·&nbsp; [💻 Code](LINK)
 
-> One-sentence summary of key finding or contribution.
+> One-sentence summary of the key finding or contribution.
+
+---
+
+**[Third Paper Title](https://doi.org/10.XXXX)**
+**Carolina Ojeda**, et al.
+*Journal Name · Year* &nbsp;·&nbsp; [📄 PDF](LINK) &nbsp;·&nbsp; [💻 Code](LINK)
+
+> One-sentence summary of the key finding or contribution.
 
 </details>
 
@@ -132,8 +131,8 @@ Pathway analysis
 <summary><strong>Preprints & In Preparation</strong></summary>
 <br>
 
-**[Preprint / In Prep Title](https://biorxiv.org/YOUR_LINK)**  
-**Carolina Ojeda**, et al.  
+**[Preprint / In Prep Title](https://biorxiv.org/YOUR_LINK)**
+**Carolina Ojeda**, et al.
 *bioRxiv · 2024*
 
 > Brief description of what this work covers.
@@ -146,9 +145,9 @@ Pathway analysis
 
 ## Patent
 
-> 🔐 **"[Your Patent Title on Radiation]"**  
-> *Patent No. [XXXXXXX] · [Country] · Granted / Filed [YEAR]*  
->  
+> 🌿 **"[Your Patent Title on Radiation]"**
+> *Patent No. [XXXXXXX] · [Country] · Granted / Filed [YEAR]*
+>
 > Brief one-line description of what the invention covers and its application in radiation biology or medicine.
 
 ---
@@ -166,10 +165,10 @@ Pathway analysis
 
 Built to solve [the problem]. Uses [key method or approach].
 
-`Python` `[OTHER TOOL]` `[OTHER TOOL]`
+`Python` `[TOOL]` `[TOOL]`
 
-[![Repo](https://img.shields.io/badge/View_Repository-2C1810?style=flat-square)](https://github.com/YOUR_GITHUB_USERNAME/REPO_1)
-![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/REPO_1?style=flat-square&color=C4762A)
+[![View Repo](https://img.shields.io/badge/View_Repository-3A4A35?style=flat-square&logoColor=A8C99A)](https://github.com/YOUR_GITHUB_USERNAME/REPO_1)
+![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/REPO_1?style=flat-square&color=6A8C5E)
 
 </td>
 <td width="50%">
@@ -179,10 +178,10 @@ Built to solve [the problem]. Uses [key method or approach].
 
 Built to solve [the problem]. Uses [key method or approach].
 
-`R` `Seurat` `[OTHER TOOL]`
+`R` `Seurat` `[TOOL]`
 
-[![Repo](https://img.shields.io/badge/View_Repository-2C1810?style=flat-square)](https://github.com/YOUR_GITHUB_USERNAME/REPO_2)
-![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/REPO_2?style=flat-square&color=C4762A)
+[![View Repo](https://img.shields.io/badge/View_Repository-3A4A35?style=flat-square&logoColor=A8C99A)](https://github.com/YOUR_GITHUB_USERNAME/REPO_2)
+![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/REPO_2?style=flat-square&color=6A8C5E)
 
 </td>
 </tr>
@@ -192,12 +191,12 @@ Built to solve [the problem]. Uses [key method or approach].
 ### 🔗 [Project Three Name](https://github.com/YOUR_GITHUB_USERNAME/REPO_3)
 **[One-line description of what this project does]**
 
-Built to solve [the problem]. This project integrates [data types] using [methods] to achieve [outcome].
+This project integrates [data types] using [methods] to achieve [outcome]. Built for [audience or use case].
 
-`Python` `R` `MaxQuant` `[OTHER TOOL]`
+`Python` `R` `MaxQuant` `[TOOL]`
 
-[![Repo](https://img.shields.io/badge/View_Repository-2C1810?style=flat-square)](https://github.com/YOUR_GITHUB_USERNAME/REPO_3)
-![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/REPO_3?style=flat-square&color=C4762A)
+[![View Repo](https://img.shields.io/badge/View_Repository-3A4A35?style=flat-square&logoColor=A8C99A)](https://github.com/YOUR_GITHUB_USERNAME/REPO_3)
+![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/REPO_3?style=flat-square&color=6A8C5E)
 
 </td>
 </tr>
@@ -213,13 +212,13 @@ Built to solve [the problem]. This project integrates [data types] using [method
 
 | Domain | Technologies |
 |--------|-------------|
-| **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
-| **Proteomics** | ![MaxQuant](https://img.shields.io/badge/MaxQuant-7A4F3A?style=flat-square) ![Perseus](https://img.shields.io/badge/Perseus-7A4F3A?style=flat-square) ![[OTHER]](https://img.shields.io/badge/[OTHER_TOOL]-7A4F3A?style=flat-square) |
-| **Single-cell** | ![Seurat](https://img.shields.io/badge/Seurat-C4762A?style=flat-square) ![Scanpy](https://img.shields.io/badge/Scanpy-C4762A?style=flat-square) ![[OTHER]](https://img.shields.io/badge/[OTHER]-C4762A?style=flat-square) |
-| **Transcriptomics** | ![DESeq2](https://img.shields.io/badge/DESeq2-2C6E49?style=flat-square) ![STAR](https://img.shields.io/badge/STAR-2C6E49?style=flat-square) ![edgeR](https://img.shields.io/badge/edgeR-2C6E49?style=flat-square) |
-| **Workflows** | ![Nextflow](https://img.shields.io/badge/Nextflow-3FAF97?style=flat-square) ![Snakemake](https://img.shields.io/badge/Snakemake-FF9900?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **Visualization** | ![ggplot2](https://img.shields.io/badge/ggplot2-FF6B6B?style=flat-square) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square) ![R Shiny](https://img.shields.io/badge/R_Shiny-3474A7?style=flat-square) |
-| **Infrastructure** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![HPC/SLURM](https://img.shields.io/badge/HPC_SLURM-555?style=flat-square) |
+| **Programming** | ![Python](https://img.shields.io/badge/Python-3A4A35?style=flat-square&logo=python&logoColor=A8C99A) ![R](https://img.shields.io/badge/R-3A4A35?style=flat-square&logo=r&logoColor=A8C99A) ![Bash](https://img.shields.io/badge/Bash-3A4A35?style=flat-square&logo=gnu-bash&logoColor=A8C99A) |
+| **Proteomics** | ![MaxQuant](https://img.shields.io/badge/MaxQuant-6A8C5E?style=flat-square) ![Perseus](https://img.shields.io/badge/Perseus-6A8C5E?style=flat-square) ![STRING](https://img.shields.io/badge/STRING-6A8C5E?style=flat-square) |
+| **Single-cell** | ![Seurat](https://img.shields.io/badge/Seurat-3A4A35?style=flat-square) ![Scanpy](https://img.shields.io/badge/Scanpy-3A4A35?style=flat-square) ![Monocle](https://img.shields.io/badge/Monocle-3A4A35?style=flat-square) |
+| **Transcriptomics** | ![DESeq2](https://img.shields.io/badge/DESeq2-6A8C5E?style=flat-square) ![STAR](https://img.shields.io/badge/STAR-6A8C5E?style=flat-square) ![edgeR](https://img.shields.io/badge/edgeR-6A8C5E?style=flat-square) |
+| **Workflows** | ![Nextflow](https://img.shields.io/badge/Nextflow-3A4A35?style=flat-square) ![Snakemake](https://img.shields.io/badge/Snakemake-3A4A35?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3A4A35?style=flat-square&logo=docker&logoColor=A8C99A) |
+| **Visualization** | ![ggplot2](https://img.shields.io/badge/ggplot2-6A8C5E?style=flat-square) ![Plotly](https://img.shields.io/badge/Plotly-6A8C5E?style=flat-square) ![R Shiny](https://img.shields.io/badge/R_Shiny-6A8C5E?style=flat-square) |
+| **Infrastructure** | ![Linux](https://img.shields.io/badge/Linux-3A4A35?style=flat-square&logo=linux&logoColor=A8C99A) ![Git](https://img.shields.io/badge/Git-3A4A35?style=flat-square&logo=git&logoColor=A8C99A) ![HPC](https://img.shields.io/badge/HPC_SLURM-3A4A35?style=flat-square) |
 
 </div>
 
@@ -229,11 +228,11 @@ Built to solve [the problem]. This project integrates [data types] using [method
 
 ## Presentations & Conferences
 
-| Year | Event | Type | Links |
-|------|-------|------|-------|
-| [YEAR] | **NASA [Full Conference Name]** | [Oral / Poster] | [📊 Slides](LINK) · [📄 Abstract](LINK) |
-| [YEAR] | **[Conference 2 Name]** | [Oral / Poster] | [📊 Slides](LINK) |
-| [YEAR] | **[Conference 3 Name]** | Workshop / Invited Talk | [📄 Abstract](LINK) |
+| Year | Event | Location | Type | Links |
+|------|-------|----------|------|-------|
+| [YEAR] | **NASA [Full Conference / Investigation Name]** | [City, Country] | [Oral / Poster] | [📊 Slides](LINK) · [📄 Abstract](LINK) |
+| [YEAR] | **[Conference 2 Name]** | [City, Country] | [Oral / Poster] | [📊 Slides](LINK) |
+| [YEAR] | **[Conference 3 Name]** | [City, Country] | Workshop / Invited Talk | [📄 Abstract](LINK) |
 
 ---
 
@@ -242,15 +241,15 @@ Built to solve [the problem]. This project integrates [data types] using [method
 ## Experience
 
 ```
-🎓  PhD Candidate — University of Arkansas                    [START YEAR] – Present
+🌿  PhD Candidate — University of Arkansas               [START YEAR] – Present
     Laboratory of Radiation · Advisor: Dr. Kumar Takkar
-    Focus: [Your thesis focus, e.g. radiation proteomics & multi-omics integration]
+    [Your thesis focus, e.g. radiation proteomics & multi-omics integration]
 
-🔬  [Previous Role, e.g. Research Intern]  —  [Institution]  [YEAR] – [YEAR]
-    Brief description of what you did.
+🔬  [Previous Role, e.g. Research Intern] — [Institution]   [YEAR] – [YEAR]
+    Brief description of what you did and what you learned.
 
-🏫  [Previous Position]  —  [Institution]                     [YEAR] – [YEAR]
-    Brief description of what you did.
+🏫  [Previous Position] — [Institution]                      [YEAR] – [YEAR]
+    Brief description of what you did and what you learned.
 ```
 
 ---
@@ -265,7 +264,7 @@ Built to solve [the problem]. This project integrates [data types] using [method
 
 **Roles I'm Excited About**
 
-- 🧪 Computational Biologist
+- 🌿 Computational Biologist
 - 🔬 Proteomics / Multi-omics Scientist
 - 🤖 Bioinformatics R&D Scientist
 - 📊 Data Scientist — Biotech / Pharma
@@ -279,7 +278,7 @@ Built to solve [the problem]. This project integrates [data types] using [method
 - 🏢 Biotech & pharmaceutical companies
 - 🏥 Translational / clinical research
 - 🔭 Innovative R&D teams
-- 🌍 Collaborative, mission-driven science
+- 🌍 Mission-driven, collaborative science
 - 🚀 Early-stage biotech / startups
 
 </td>
@@ -293,26 +292,28 @@ Built to solve [the problem]. This project integrates [data types] using [method
 ## GitHub Activity
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=solarized-light&hide_border=true&title_color=7A4F3A&text_color=2C1810&bg_color=FDF6EE"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=solarized-light&hide_border=true&ring=C4762A&fire=C4762A&currStreakLabel=7A4F3A"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&title_color=3A4A35&text_color=3A4A35&bg_color=F8F6F0"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&hide_border=true&ring=6A8C5E&fire=3A4A35&currStreakLabel=3A4A35&background=F8F6F0&sideLabels=6A8C5E&dates=6A8C5E&sideNums=3A4A35&currStreakNum=3A4A35"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=solarized-light&hide_border=true&area=true&color=7A4F3A&line=C4762A&point=2C1810"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true&area=true&bg_color=F8F6F0&color=3A4A35&line=6A8C5E&point=3A4A35"/>
 </div>
 
 ---
 
-<!-- ── FOOTER ─────────────────────────────────────────────────────── -->
+<!-- ── FOOTER ──────────────────────────────────────────────────────── -->
 
 <div align="center">
 
 *I'm always open to conversations about science, collaboration, or new opportunities.*
 
-[![Let's connect](https://img.shields.io/badge/💼%20Let's%20Connect-7A4F3A?style=for-the-badge)](https://www.linkedin.com/in/enathaliepineda/)
+<br>
+
+[![Let's Connect](https://img.shields.io/badge/💼%20Let's%20Connect-3A4A35?style=for-the-badge&logoColor=A8C99A)](https://www.linkedin.com/in/enathaliepineda/)
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24&height=80&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&section=footer"/>
 
 </div>
