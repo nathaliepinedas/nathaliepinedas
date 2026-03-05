@@ -33,13 +33,13 @@
 
 ## About Me
 
-I am a PhD Candidate in Bioinformatics at the **University of Arkansas**, working in the **Laboratory of Radiation** under the supervision of **Dr. Kumar Takkar**.
+I am a PhD Scientist at the **University of Arkansas**, working in the **Laboratory of Radiation** under the supervision of **Dr. Kumar Takkar**.
 
 My research bridges **proteomics**, **transcriptomics**, and **multi-omics integration** — with a focus on [YOUR THESIS TOPIC, e.g., radiation-induced molecular responses and biomarker discovery]. I combine wet-lab intuition with computational rigor to extract biological meaning from complex, high-dimensional datasets.
 
 Actively seeking **industry positions** in biotech, pharma, or precision medicine where multi-omics expertise drives translational impact.
 
-📍 **Location:** Arkansas, USA
+📍 **Location:** Greater Phoenix Area, USA
 🎓 **PhD Expected:** [YEAR]
 🔬 **Lab:** Laboratory of Radiation · University of Arkansas
 💼 **Open to:** Computational Biologist · Proteomics Scientist · Bioinformatics R&D
@@ -238,7 +238,7 @@ This project integrates [data types] using [methods] to achieve [outcome]. Built
 ## Experience
 
 ```
-🌿  PhD Candidate — University of Arkansas               [START YEAR] – Present
+🌿  PhD Candidate — University of Arkansas for Medical Sciences               [2021] – 2025
     Laboratory of Radiation · Advisor: Dr. Kumar Takkar
     [Your thesis focus, e.g. radiation proteomics & multi-omics integration]
 
