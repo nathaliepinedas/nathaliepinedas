@@ -29,27 +29,28 @@
 
 <table>
 <tr>
-<td valign="top" width="57%">
+<td valign="top" width="67%">
 
 ## About Me
 
-I am a PhD Scientist at the **University of Arkansas**, working in the **Laboratory of Radiation** under the supervision of **Dr. Kumar Takkar**.
-
-My research bridges **proteomics**, **transcriptomics**, and **multi-omics integration** — with a focus on [YOUR THESIS TOPIC, e.g., radiation-induced molecular responses and biomarker discovery]. I combine wet-lab intuition with computational rigor to extract biological meaning from complex, high-dimensional datasets.
+I am a PhD-trained scientist with interdisciplinary expertise spanning biological sciences, analytical chemistry, and bioinformatics. Skilled in preclinical research involving in vivo animal models, radiation biology, drug delivery and evaluation of novel therapeutic strategies. My research integrates multi-omics approaches-including **proteomics**, **transcriptomics**, and **microbiome** profiling to investigate radiation induced molecular responses to identify biomarkers relevant to therapeutic development. 
+I combine computational analysis with extensive hands on expertise in **in vivo models** and **molecular and cellular techniques** such as immunohistochemistry, flow cytometry, qPCR, Western Blotting, funtional assays and ELISA. My background also includes **analytical and medicinal chemistry** approaches, including HPLC, GC-MS and QSAR modelling, as well as experience in **method development**, transfer,validation and **quality control/quality assurance** (QC/QA) to ensure robust and reproducible data. I am also a co-inventor on a **patent** related to radiprotective compounds. 
 
 Actively seeking **industry positions** in biotech, pharma, or precision medicine where multi-omics expertise drives translational impact.
 
-📍 **Location:** Greater Phoenix Area, USA
-🎓 **PhD Expected:** [YEAR]
-🔬 **Lab:** Laboratory of Radiation · University of Arkansas
-💼 **Open to:** Computational Biologist · Proteomics Scientist · Bioinformatics R&D
+📍 **Location:** Greater Phoenix Area, USA 
+<br>
+🎓 **PhD in Bioinformatics:** with multidisciplinary laboratory expertise and continued development of advanced bioinformatics skills
+<br>
+💼 **Open to:** Translational Scientist Roles · Proteomics/Genomics Scientist · Bioinformatics R&D
+<br>
 
 </td>
-<td valign="top" width="43%">
+<td valign="top" width="83%">
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&title_color=3A4A35&icon_color=6A8C5E&text_color=3A4A35&bg_color=F8F6F0" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nathaliepinedas&show_icons=true&hide_border=true&title_color=3A4A35&icon_color=6A8C5E&text_color=3A4A35&bg_color=F8F6F0" width="100%"/>
 
 </td>
 </tr>
