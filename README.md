@@ -101,11 +101,14 @@ Pathway & network analysis
 <summary><strong>Peer-Reviewed Articles</strong></summary>
 <br>
 
-**[Your Paper Title Here](https://doi.org/10.1038/s41526-025-00480-1)**
-**Carolina Ojeda**, Co-Author, Kumar Takkar
-*Journal Name · Year* &nbsp;·&nbsp; [📄 PDF](https://www.nature.com/articles/s41526-025-00480-1) &nbsp;·&nbsp; [💻 Code](LINK) &nbsp;·&nbsp; [📊 Data](LINK)
+**[Sex-specific immune alterations in mice following long-term simulated microgravity and chronic irradiation](https://doi.org/10.1038/s41526-025-00480-1)**
+<br>
+**Edith Nathalie Pineda**, Bernice Nounamo, Ruofei Du, Enoch K. Larrey, Cordell Gilreath, Harrison Cook, Marjan Boerma, Igor Koturbash & Rupak Pathak
+<br>
+*npj Microgravity · 2025* &nbsp;·&nbsp; 
+<br>[📄 PDF](https://www.nature.com/articles/s41526-025-00480-1) &nbsp;·&nbsp; [💻 Code](LINK) &nbsp;·&nbsp; [📊 Data](LINK)
 
-> One-sentence summary of the key finding or contribution.
+> Simulated microgravity (SMG) and/or chronic irradiation (CIR) significantly altered splenic immune cell distribution, phenotype, and function in mice, with female mice showing broader immune alterations than males across both lymphoid and myeloid cell populations. These findings highlight sex-specific immune responses to spaceflight-related stressors, emphasizing the need for tailored strategies to protect astronaut health during long-duration lunar and Mars missions..
 
 ---
 
