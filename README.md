@@ -101,9 +101,9 @@ Pathway & network analysis
 <summary><strong>Peer-Reviewed Articles</strong></summary>
 <br>
 
-**[Your Paper Title Here](https://doi.org/10.XXXX)**
+**[Your Paper Title Here](https://doi.org/10.1038/s41526-025-00480-1)**
 **Carolina Ojeda**, Co-Author, Kumar Takkar
-*Journal Name · Year* &nbsp;·&nbsp; [📄 PDF](LINK) &nbsp;·&nbsp; [💻 Code](LINK) &nbsp;·&nbsp; [📊 Data](LINK)
+*Journal Name · Year* &nbsp;·&nbsp; [📄 PDF](https://www.nature.com/articles/s41526-025-00480-1) &nbsp;·&nbsp; [💻 Code](LINK) &nbsp;·&nbsp; [📊 Data](LINK)
 
 > One-sentence summary of the key finding or contribution.
 
