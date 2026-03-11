@@ -113,6 +113,18 @@ Bernice Nounamo, Ravi P. Cholia, Ruofei Du, Enoch K. Larrey, **Edith Nathalie Pi
 
 ---
 
+**[Geranylgeranyl Transferase Inhibitors Mitigate Intestinal Radiation Toxicity](https://doi.org/10.1016/j.ijrobp.2025.10.026)**
+<br>
+Katherine McGinness, Qudes Al-Anbaky, Enoch K Larrey, Ravi P Cholia, Mitchell Rotenberry, Harrison Cook, **Edith Nathalie Pineda**, Ruofei Du, Marjan Boerma, Rupak Pathak
+<br>
+*International Journal of Radiation Oncology* Biology* Physics · 2025* &nbsp;·&nbsp; 
+<br>
+[📄 PDF](https://www.sciencedirect.com/science/article/abs/pii/S0360301625064181) &nbsp;·&nbsp;
+
+>GGTi treatment improved intestinal recovery after partial-body irradiation (PBI), increasing surviving intestinal crypts in male mice at day 3.5 and mitigating structural intestinal damage in both sexes by day 14. GGTi also reduced multiple radiation-induced intestinal injuries—including changes in stem cell markers, immune cell infiltration, mucus production, and vascular endothelial markers—while mechanistic studies showed it supports molecules important for endothelial function and intestinal stem cell maintenance after irradiation.
+
+---
+
 **[Sex-specific immune alterations in mice following long-term simulated microgravity and chronic irradiation](https://doi.org/10.1038/s41526-025-00480-1)**
 <br>
 **Edith Nathalie Pineda**, Bernice Nounamo, Ruofei Du, Enoch K. Larrey, Cordell Gilreath, Harrison Cook, Marjan Boerma, Igor Koturbash & Rupak Pathak
@@ -123,20 +135,16 @@ Bernice Nounamo, Ravi P. Cholia, Ruofei Du, Enoch K. Larrey, **Edith Nathalie Pi
 > Simulated microgravity (SMG) and/or chronic irradiation (CIR) significantly altered splenic immune cell distribution, phenotype, and function in mice, with female mice showing broader immune alterations than males across both lymphoid and myeloid cell populations. These findings highlight sex-specific immune responses to spaceflight-related stressors, emphasizing the need for tailored strategies to protect astronaut health during long-duration lunar and Mars missions.
 
 ---
+**[Tocotrienols provide radioprotection to multiple organ systems through complementary mechanisms of antioxidant and signaling effects](https://doi.org/10.3390/antiox12111987)**
+<br>
+Stephen A Shrum, Ujwani Nukala, Shivangi Shrimali, **Edith Nathalie Pineda**, Kimberly J Krager, Shraddha Thakkar, Darin E Jones, Rupak Pathak, Philip J Breen, Nukhet Aykin-Burns, Cesar M Compadre
+<br>
+*Antioxidants · 2025* &nbsp;·&nbsp; 
+<br>[📄 PDF](https://www.mdpi.com/2076-3921/12/11/1987) &nbsp;·&nbsp; [💻 Code](LINK) &nbsp;·&nbsp; [📊 Data](LINK)
 
-**[Your Second Paper Title](https://doi.org/10.XXXX)**
-**Carolina Ojeda**, Co-Author, Co-Author
-*Journal Name · Year* &nbsp;·&nbsp; [📄 PDF](LINK) &nbsp;·&nbsp; [💻 Code](LINK)
-
-> One-sentence summary of the key finding or contribution.
+> Tocotrienols are potent radioprotectors with multi-organ benefits, acting not only through classic antioxidant effects that prevent oxidative cellular damage but also via modulation of key signaling pathways involved in radiation injury. Their radioprotective efficacy arises from this synergistic combination of direct cytoprotection and broader signaling effects, making them promising candidates for clinical radiation countermeasures.
 
 ---
-
-**[Third Paper Title](https://doi.org/10.XXXX)**
-**Carolina Ojeda**, et al.
-*Journal Name · Year* &nbsp;·&nbsp; [📄 PDF](LINK) &nbsp;·&nbsp; [💻 Code](LINK)
-
-> One-sentence summary of the key finding or contribution.
 
 </details>
 
