@@ -101,6 +101,18 @@ Pathway & network analysis
 <summary><strong>Peer-Reviewed Articles</strong></summary>
 <br>
 
+**[Identification and Characterization of Platelet Surface-membrane-derived Microparticles before and after Total-body Irradiation](https://doi.org/10.1667/RADE-25-00165.1)**
+<br>
+Bernice Nounamo, Ravi P. Cholia, Ruofei Du, Enoch K. Larrey, **Edith Nathalie Pineda**, Ryan Porter , Jerry Ware & Rupak Pathak
+<br>
+*Radiation Research · 2025* &nbsp;·&nbsp; 
+<br>
+[📄 PDF](https://radiation-research.kglmeridian.com/view/journals/rare/205/3/article-p222.xml) &nbsp;·&nbsp;
+
+> Flow cytometry analysis identified three distinct platelet-derived microparticle (PMP) subpopulations, whose distribution varied depending on irradiation status, platelet GPIbα expression, agonist stimulation, and biological sex in mice exposed to total-body irradiation (TBI). These PMP changes also influenced immune cell responses, including ROS generation and immunoglobulin production, highlighting their potential role in radiation-induced immune modulation.
+
+---
+
 **[Sex-specific immune alterations in mice following long-term simulated microgravity and chronic irradiation](https://doi.org/10.1038/s41526-025-00480-1)**
 <br>
 **Edith Nathalie Pineda**, Bernice Nounamo, Ruofei Du, Enoch K. Larrey, Cordell Gilreath, Harrison Cook, Marjan Boerma, Igor Koturbash & Rupak Pathak
@@ -108,7 +120,7 @@ Pathway & network analysis
 *npj Microgravity · 2025* &nbsp;·&nbsp; 
 <br>[📄 PDF](https://www.nature.com/articles/s41526-025-00480-1) &nbsp;·&nbsp; [💻 Code](LINK) &nbsp;·&nbsp; [📊 Data](LINK)
 
-> Simulated microgravity (SMG) and/or chronic irradiation (CIR) significantly altered splenic immune cell distribution, phenotype, and function in mice, with female mice showing broader immune alterations than males across both lymphoid and myeloid cell populations. These findings highlight sex-specific immune responses to spaceflight-related stressors, emphasizing the need for tailored strategies to protect astronaut health during long-duration lunar and Mars missions..
+> Simulated microgravity (SMG) and/or chronic irradiation (CIR) significantly altered splenic immune cell distribution, phenotype, and function in mice, with female mice showing broader immune alterations than males across both lymphoid and myeloid cell populations. These findings highlight sex-specific immune responses to spaceflight-related stressors, emphasizing the need for tailored strategies to protect astronaut health during long-duration lunar and Mars missions.
 
 ---
 
