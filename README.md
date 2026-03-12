@@ -166,8 +166,8 @@ Stephen A Shrum, Ujwani Nukala, Shivangi Shrimali, **Edith Nathalie Pineda**, Ki
 
 ## Patent
 
-> 🌿 **"[Your Patent Title on Radiation]"**
-> *Patent No. [XXXXXXX] · [Country] · Granted / Filed [YEAR]*
+> 🌿 **"[Preparation and use of a composition for prevention and mitigation of the effects of radiation]"**
+> *Patent No. [US10357474B2] · [US] · Granted / Filed [2014]*
 >
 > Brief one-line description of what the invention covers and its application in radiation biology or medicine.
 
@@ -181,7 +181,7 @@ Stephen A Shrum, Ujwani Nukala, Shivangi Shrimali, **Edith Nathalie Pineda**, Ki
 <tr>
 <td width="50%">
 
-### 🧪 [Project One Name](https://github.com/YOUR_GITHUB_USERNAME/REPO_1)
+### 🧪 [GGTi Microbiome](https://github.com/YOUR_GITHUB_USERNAME/REPO_1)
 **[One-line description of what this project does]**
 
 Built to solve [the problem]. Uses [key method or approach].
@@ -194,7 +194,7 @@ Built to solve [the problem]. Uses [key method or approach].
 </td>
 <td width="50%">
 
-### 🧬 [Project Two Name](https://github.com/YOUR_GITHUB_USERNAME/REPO_2)
+### 🧬 [Low-dose chronic irradiation and simulated microgravity microbiome/proteomics](https://github.com/YOUR_GITHUB_USERNAME/REPO_2)
 **[One-line description of what this project does]**
 
 Built to solve [the problem]. Uses [key method or approach].
@@ -209,7 +209,7 @@ Built to solve [the problem]. Uses [key method or approach].
 <tr>
 <td colspan="2">
 
-### 🔗 [Project Three Name](https://github.com/YOUR_GITHUB_USERNAME/REPO_3)
+### 🔗 [MULTI OMICS](https://github.com/YOUR_GITHUB_USERNAME/REPO_3)
 **[One-line description of what this project does]**
 
 This project integrates [data types] using [methods] to achieve [outcome]. Built for [audience or use case].
