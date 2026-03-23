@@ -152,9 +152,9 @@ Stephen A Shrum, Ujwani Nukala, Shivangi Shrimali, **Edith Nathalie Pineda**, Ki
 <summary><strong>Preprints & In Preparation</strong></summary>
 <br>
 
-**[Preprint / In Prep Title](https://biorxiv.org/YOUR_LINK)**
-**Carolina Ojeda**, et al.
-*bioRxiv · 2024*
+**[Preprint / Geranylgeranyl transferase inhibitor mitigates intestinal microbiome, endothelial, and immune alterations after partial body irradiation in mice.](https://biorxiv.org/YOUR_LINK)**
+**Edith Nathalie Pineda**, et al.
+*bioRxiv · 2026*
 
 > Brief description of what this work covers.
 
@@ -235,7 +235,7 @@ This project integrates [data types] using [methods] to achieve [outcome]. Built
 |--------|-------------|
 | **Programming** | ![Python](https://img.shields.io/badge/Python-3A4A35?style=flat-square&logo=python&logoColor=A8C99A) ![R](https://img.shields.io/badge/R-3A4A35?style=flat-square&logo=r&logoColor=A8C99A) ![Bash](https://img.shields.io/badge/Bash-3A4A35?style=flat-square&logo=gnu-bash&logoColor=A8C99A) |
 | **Proteomics** | ![MaxQuant](https://img.shields.io/badge/MaxQuant-6A8C5E?style=flat-square) ![Perseus](https://img.shields.io/badge/Perseus-6A8C5E?style=flat-square) ![STRING](https://img.shields.io/badge/STRING-6A8C5E?style=flat-square) |
-| **Single-cell** | ![Seurat](https://img.shields.io/badge/Seurat-3A4A35?style=flat-square) ![Scanpy](https://img.shields.io/badge/Scanpy-3A4A35?style=flat-square) ![Monocle](https://img.shields.io/badge/Monocle-3A4A35?style=flat-square) |
+| **Microbiobe** | ![Seurat](https://img.shields.io/badge/Seurat-3A4A35?style=flat-square) ![Scanpy](https://img.shields.io/badge/Scanpy-3A4A35?style=flat-square) ![Monocle](https://img.shields.io/badge/Monocle-3A4A35?style=flat-square) |
 | **Transcriptomics** | ![DESeq2](https://img.shields.io/badge/DESeq2-6A8C5E?style=flat-square) ![STAR](https://img.shields.io/badge/STAR-6A8C5E?style=flat-square) ![edgeR](https://img.shields.io/badge/edgeR-6A8C5E?style=flat-square) |
 | **Workflows** | ![Nextflow](https://img.shields.io/badge/Nextflow-3A4A35?style=flat-square) ![Snakemake](https://img.shields.io/badge/Snakemake-3A4A35?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3A4A35?style=flat-square&logo=docker&logoColor=A8C99A) |
 | **Visualization** | ![ggplot2](https://img.shields.io/badge/ggplot2-6A8C5E?style=flat-square) ![Plotly](https://img.shields.io/badge/Plotly-6A8C5E?style=flat-square) ![R Shiny](https://img.shields.io/badge/R_Shiny-6A8C5E?style=flat-square) |
@@ -263,8 +263,8 @@ This project integrates [data types] using [methods] to achieve [outcome]. Built
 
 ```
 🌿  PhD Candidate — University of Arkansas for Medical Sciences               [2021] – 2025
-    Laboratory of Radiation · Advisor: Dr. Kumar Takkar
-    [Your thesis focus, e.g. radiation proteomics & multi-omics integration]
+    Pharmaceutical Sciences/Radiation Health · Advisor: Dr. Rupak Pathak
+    [Radiation bioology & multi-omics integration]
 
 🔬  [Previous Role, e.g. Research Intern] — [Institution]   [YEAR] – [YEAR]
     Brief description of what you did and what you learned.
